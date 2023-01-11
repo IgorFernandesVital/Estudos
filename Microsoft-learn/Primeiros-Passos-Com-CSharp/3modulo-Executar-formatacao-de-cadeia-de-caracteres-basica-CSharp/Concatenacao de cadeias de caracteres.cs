@@ -17,9 +17,9 @@ Console.WriteLine(message);
  Console.WriteLine(massage);
   */
 
-  /* 
-   Etapa 3 - Como evitar variáveis intermediárias.
-  */
+/* 
+  Etapa 3 - Como evitar variáveis intermediárias.
+*/
 /* 
   string firstName = "Bob";
   string greeting = "Hello";

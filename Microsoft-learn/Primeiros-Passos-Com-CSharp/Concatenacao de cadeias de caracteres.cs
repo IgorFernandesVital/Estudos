@@ -5,4 +5,13 @@
 string firstName = "Bob";
 string message = "Hello " + firstName;
 Console.WriteLine(message);
-*/
+ */
+
+ /* 
+  Etapa 2 - Concatenar diversas variáveis e cadeias de caracteres literais. 
+ */
+
+ string firstName = "Bob";
+ string greeting = "Hello";
+ string massage = greeting + " " + firstName + "!";
+ Console.WriteLine(massage);

@@ -20,7 +20,8 @@ Console.WriteLine(message);
   /* 
    Etapa 3 - Como evitar variáveis intermediárias.
   */
-
+/* 
   string firstName = "Bob";
   string greeting = "Hello";
   Console.WriteLine(greeting + " " + firstName + "!");
+   */

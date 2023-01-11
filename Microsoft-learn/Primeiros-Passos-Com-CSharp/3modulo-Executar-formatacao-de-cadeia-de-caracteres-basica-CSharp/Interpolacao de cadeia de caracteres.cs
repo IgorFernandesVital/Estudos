@@ -20,8 +20,17 @@ Console.WriteLine(massage);
 /* 
  Etapa 3 - Evitar variáveis intermediárias
 */
-
+/* 
  string firstName = "Bob";
  string greeting = "Hello";
  Console.WriteLine($"{greeting} {firstName}!");
+*/
 
+
+/* 
+ Etapa 4 - Combinar literais textuais e interpolação de cadeia de caracteres
+*/
+/* 
+string projectName = "First-Project";
+Console.WriteLine($@"C:\Output\{projectName}\Data");
+ */

@@ -1,0 +1,15 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\Workflow\Estudos\Microsoft-learn\Primeiros-Passos-Com-CSharp\bin\Debug\net7.0\Primeiros-Passos-Com-CSharp.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\Workflow\Estudos\Microsoft-learn\Primeiros-Passos-Com-CSharp\bin\Debug\net7.0\Primeiros-Passos-Com-CSharp.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\Workflow\Estudos\Microsoft-learn\Primeiros-Passos-Com-CSharp\bin\Debug\net7.0\Primeiros-Passos-Com-CSharp.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\Workflow\Estudos\Microsoft-learn\Primeiros-Passos-Com-CSharp\bin\Debug\net7.0\Primeiros-Passos-Com-CSharp.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\Workflow\Estudos\Microsoft-learn\Primeiros-Passos-Com-CSharp\bin\Debug\net7.0\Primeiros-Passos-Com-CSharp.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\Workflow\Estudos\Microsoft-learn\Primeiros-Passos-Com-CSharp\obj\Debug\net7.0\Primeiros-Passos-Com-CSharp.csproj.AssemblyReference.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\Workflow\Estudos\Microsoft-learn\Primeiros-Passos-Com-CSharp\obj\Debug\net7.0\Primeiros-Passos-Com-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\Workflow\Estudos\Microsoft-learn\Primeiros-Passos-Com-CSharp\obj\Debug\net7.0\Primeiros-Passos-Com-CSharp.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\Workflow\Estudos\Microsoft-learn\Primeiros-Passos-Com-CSharp\obj\Debug\net7.0\Primeiros-Passos-Com-CSharp.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\Workflow\Estudos\Microsoft-learn\Primeiros-Passos-Com-CSharp\obj\Debug\net7.0\Primeiros-Passos-Com-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\Workflow\Estudos\Microsoft-learn\Primeiros-Passos-Com-CSharp\obj\Debug\net7.0\Primeiros-Passos-Com-CSharp.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\Workflow\Estudos\Microsoft-learn\Primeiros-Passos-Com-CSharp\obj\Debug\net7.0\refint\Primeiros-Passos-Com-CSharp.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\Workflow\Estudos\Microsoft-learn\Primeiros-Passos-Com-CSharp\obj\Debug\net7.0\Primeiros-Passos-Com-CSharp.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\Workflow\Estudos\Microsoft-learn\Primeiros-Passos-Com-CSharp\obj\Debug\net7.0\Primeiros-Passos-Com-CSharp.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\Workflow\Estudos\Microsoft-learn\Primeiros-Passos-Com-CSharp\obj\Debug\net7.0\ref\Primeiros-Passos-Com-CSharp.dll

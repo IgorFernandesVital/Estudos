@@ -16,8 +16,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\igorf\OneDrive\Área de Trabalho\workflow\Estudos\MeuSiteEmMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/igorf/OneDrive/Área de Trabalho/workflow/Estudos/MeuSiteEmMVC/Views/Contato/ApagarContato.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xBcGFnYXJDb250YXRvLmNzaHRtbA==
+[C:/Users/igorf/OneDrive/Área de Trabalho/workflow/Estudos/MeuSiteEmMVC/Views/Contato/ApagarConfirmacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xBcGFnYXJDb25maXJtYWNhby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/igorf/OneDrive/Área de Trabalho/workflow/Estudos/MeuSiteEmMVC/Views/Contato/CriarContato.cshtml]
